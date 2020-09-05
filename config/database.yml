@@ -6,7 +6,7 @@ default: &default
 
 development:
   <<: *default
-  database: task_manager_development
+  database: task_manager_developmentdasdas
 test:
   <<: *default
   database: task_manager_test
